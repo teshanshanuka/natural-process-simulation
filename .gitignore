@@ -1,6 +1,6 @@
 .vscode/
 __pycache__/
 *.pyc
-*.avi/
-week_5/*/*.png
+*.avi
+*.png
 /*.pdf
